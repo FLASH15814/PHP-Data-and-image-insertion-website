@@ -16,9 +16,9 @@
         <h3>It Looks Like You Are Not Signed In!</h3>
         <p>Sign in below</p>
         <form method="post" action="validate.php">
-          <p><input class="form-control" name="username" type="text" placeholder="Username" required /></p>
-          <p><input class="form-control" name="password" type="password" placeholder="Password" required /></p>
-          <button class="btn btn-primary" type="submit" value="Login">Login</button>
+          <p><input class="form-control" id="username" name="username" type="text" placeholder="Username" required /></p>
+          <p><input class="form-control" id="password" name="password" type="password" placeholder="Password" required /></p>
+          <button class="btn btn-primary" id="button-signin" type="submit" value="Login">Login</button>
         </form>
       </div>
     </section>

@@ -148,3 +148,16 @@ body, html {
     font-family:'Street-style2';
     src:url(../fonts/AntipastoPro-Medium_trial.ttf);
   }
+  .signin-masthead,.signin-row {
+    text-align: center;
+    margin-top:10px;
+  }
+  #username,#password{
+    width:300px;
+    margin-left:810px;
+  }
+  #button-signin{
+    margin-left:0px;
+    padding-right:25px;
+    padding-top:10px;
+  }
