@@ -47,7 +47,7 @@
     </div>
   </section>
   <section class="form-row">
-    <form method='post' action='' enctype='multipart/form-data'>
+    <form class="form-3" method='post' action='' enctype='multipart/form-data'>
       <p><input type='file' name='files[]' multiple /></p>
       <p><input class="btn btn-dark" type='submit' value='Submit' name='submit'/></p>
     </form>

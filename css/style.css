@@ -161,3 +161,19 @@ body, html {
     padding-right:25px;
     padding-top:10px;
   }
+section.masthead{
+  margin-left:800px;
+}
+section.masthead h1{
+  margin-top:50px;
+}
+section.form-row .form-3{
+  margin-top:40px;
+  margin-left:800px;
+}
+section.form-row form input[type='file']{
+  font-size:30px;
+}
+section.form-row a{
+  margin-left:800px;
+}
